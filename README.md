@@ -1,5 +1,7 @@
 # Mindful Moments 📝✨
 
+A **mental health checklist app** designed to help you stay organized and focused on your well-being. It encourages mindful practices and promotes a balanced lifestyle, helping you take small, meaningful steps towards a healthier mind.
+
 This project is _built on [**Aptos**](https://aptosfoundation.org/)_, a blockchain that offers transaction speeds of up to 160,000 transactions per second and near-instant finality.
 
 **Contract Address** - 0xcd7e2ed6392fb60f07010e80a48d1ca2df2f3d38b8e41e56bd4ca8ac428ceebd<br>
