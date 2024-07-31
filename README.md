@@ -39,7 +39,7 @@ Or, _see it on Aptos explorer_ **[here](https://explorer.aptoslabs.com/account/0
 First, we need to clone the repository and change the working directory. Then, we must set up environment variables for the project. Make sure to add ```.env``` to ```.gitignore```.
 
 ```bash
-git clone [https://github.com/ayush-that/HackOn-Blocks-2024.git](https://github.com/ayush-that/my_first_aptos_dapp.git)
+git clone https://github.com/ayush-that/my_first_aptos_dapp.git
 cd my_first_dapp/
 ```
 
